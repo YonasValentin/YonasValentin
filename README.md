@@ -4,7 +4,7 @@
 ## 📊 WakaTime Stats:
 ![wakatime](https://wakatime.com/badge/user/018bc0cb-0ddb-44ed-8e0c-a3b2aa67e357.svg)
 
-![YonasValentin's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YonasValentin&layout=compact&langs_count=10&theme=default&hide_border=false)
+![YonasValentin's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YonasValentin&layout=compact&langs_count=10&theme=react&hide_border=false)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YonasValentin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yonas-valentin) 
