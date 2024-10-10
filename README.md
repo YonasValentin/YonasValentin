@@ -2,9 +2,9 @@
 🔭 I’m currently working on Developing scalable solutions using React Native (Expo), TypeScript, and GraphQL. I’m also building web apps with Vue and Nuxt.<br>🌱 I’m currently learning: Python to explore machine learning, as well as building web scrapers for fun apps.<br>👯 I’m looking to collaborate on Exciting projects with React, Next.js, Vue, Nuxt, and mobile apps with React Native.<br>🤔 I’m looking for help with Integrating advanced AI features and machine learning into web apps.<br>💬 Ask me about: JavaScript/TypeScript, React Native, Next.js, Vue, Nuxt, Gluestack, NativeWind for Expo, and shadcn with Tailwind for web.<br>📫 How to reach me: yonasmougaard@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I started coding in high school and built my first full-stack app called [Workr](https://www.youtube.com/watch?v=laLZI8ytfGY), a marketplace for students seeking jobs, which grew to over 80,000 users in Denmark! I’ve recently launched a VS Code extension called [ErrorClipper](https://marketplace.visualstudio.com/items?itemName=YonasValentinMougaardKristensen.errorclipper) that simplifies debugging by copying error messages and related code.
 
 ## 📊 WakaTime Stats:
-[![wakatime](https://wakatime.com/badge/user/018bc0cb-0ddb-44ed-8e0c-a3b2aa67e357.svg)](https://wakatime.com/@018bc0cb-0ddb-44ed-8e0c-a3b2aa67e357)
+![wakatime](https://wakatime.com/badge/user/018bc0cb-0ddb-44ed-8e0c-a3b2aa67e357.svg)
 
-[![YonasValentin's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YonasValentin&layout=compact&langs_count=10&theme=react&hide_border=false)](https://wakatime.com/@YonasValentin)
+![YonasValentin's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YonasValentin&layout=compact&langs_count=10&theme=react&hide_border=false)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YonasValentin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yonas-valentin) 
