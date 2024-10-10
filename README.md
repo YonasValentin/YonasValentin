@@ -3,6 +3,7 @@
 
 ## 📊 WakaTime Stats:
 [![wakatime](https://wakatime.com/badge/user/018bc0cb-0ddb-44ed-8e0c-a3b2aa67e357.svg)](https://wakatime.com/@018bc0cb-0ddb-44ed-8e0c-a3b2aa67e357)
+
 [![YonasValentin's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YonasValentin&layout=compact&langs_count=10&theme=react&hide_border=false)](https://wakatime.com/@YonasValentin)
 
 ## 🌐 Socials:
