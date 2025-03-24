@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on Developing scalable solutions using React Native (Expo), TypeScript, and GraphQL. I’m also building web apps with Vue and Nuxt.<br>🌱 I’m currently learning: Python to explore machine learning, as well as building web scrapers for fun apps.<br>👯 I’m looking to collaborate on Exciting projects with React, Next.js, Vue, Nuxt, and mobile apps with React Native.<br>🤔 I’m looking for help with Integrating advanced AI features and machine learning into web apps.<br>💬 Ask me about: JavaScript/TypeScript, React Native, Next.js, Vue, Nuxt, Gluestack, NativeWind for Expo, and shadcn with Tailwind for web.<br>📫 How to reach me: yonasmougaard@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I started coding in high school and built my first full-stack app called [Workr](https://www.youtube.com/watch?v=laLZI8ytfGY), a marketplace for students seeking jobs, which grew to over 80,000 users in Denmark! I’ve recently launched a VS Code extension called [ErrorClipper](https://marketplace.visualstudio.com/items?itemName=YonasValentinMougaardKristensen.errorclipper) that simplifies debugging by copying error messages and related code.
+🔭 I’m currently working on Developing scalable solutions using React Native (Expo), TypeScript, and GraphQL. I’m also building web apps with Vue and Nuxt.<br>  
+🌱 I’m currently learning: Python to explore machine learning, as well as building web scrapers for fun apps.<br>  
+👯 I’m looking to collaborate on Exciting projects with React, Next.js, Vue, Nuxt, and mobile apps with React Native.<br>  
+🤔 I’m looking for help with Integrating advanced AI features and machine learning into web apps.<br>  
+💬 Ask me about: JavaScript/TypeScript, React Native, Next.js, Vue, Nuxt, Gluestack, NativeWind for Expo, and shadcn with Tailwind for web.<br>  
+📫 How to reach me: yonasmougaard@gmail.com<br>  
+😄 Pronouns: He/Him<br>  
+⚡ Fun fact: I started coding in high school and built my first full-stack app called [Workr](https://www.youtube.com/watch?v=laLZI8ytfGY), a marketplace for students seeking jobs, which grew to over 80,000 users in Denmark! I’ve recently launched two VS Code extensions:
+- [ErrorClipper](https://marketplace.visualstudio.com/items?itemName=YonasValentinMougaardKristensen.errorclipper) – simplifies debugging by copying error messages and related code.  
+- [ClickUp Code Companion](https://marketplace.visualstudio.com/items?itemName=YonasValentinMougaardKristensen.clickup-code-companion) – integrates ClickUp tasks directly into your workflow, letting you manage and track your tasks without leaving VS Code.
 
 ## 💻 Currently Working On:
 I'm currently developing [PetCare Pro](https://petcarepro.dk), a platform designed to streamline pet clinic management. The platform helps veterinary clinics manage appointments, pet records, invoicing, and real-time chat consultations with ease.
@@ -24,5 +33,5 @@ I'm currently developing [PetCare Pro](https://petcarepro.dk), a platform design
 ---
 [![](https://visitcount.itsvg.in/api?id=YonasValentin&icon=2&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yonasvalentin) 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yonasvalentin)
