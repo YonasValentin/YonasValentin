@@ -10,8 +10,18 @@
 - [ErrorClipper](https://marketplace.visualstudio.com/items?itemName=YonasValentinMougaardKristensen.errorclipper) – simplifies debugging by copying error messages and related code.  
 - [ClickUp Code Companion](https://marketplace.visualstudio.com/items?itemName=YonasValentinMougaardKristensen.clickup-code-companion) – integrates ClickUp tasks directly into your workflow, letting you manage and track your tasks without leaving VS Code.
 
+I’ve also developed [expo-config-plugin-appodeal](https://www.npmjs.com/package/expo-config-plugin-appodeal), a plugin that automates the native setup for Appodeal ads in Expo-managed apps.
+
 ## 💻 Currently Working On:
+### PetCare Pro
 I'm currently developing [PetCare Pro](https://petcarepro.dk), a platform designed to streamline pet clinic management. The platform helps veterinary clinics manage appointments, pet records, invoicing, and real-time chat consultations with ease.
+
+### SurgeryTrips
+[SurgeryTrips](https://surgerytrips.dk),A platform to find and compare medical procedures abroad. Easily browse accredited clinics worldwide, compare costs and patient reviews, and book your procedure—whether it’s a hair transplant, plastic surgery, or dental work.
+
+### TeoriTjek (Expo App)
+A free (ad-supported) iOS app for practicing Danish driving theory. Complete 25-question quizzes inspired by real traffic rules, get instant feedback, and prepare for the official exam.  
+[Download TeoriTjek from the App Store](https://apps.apple.com/dk/app/teoritjek-best%C3%A5-teoripr%C3%B8ven/id6744063979)
 
 ## 📊 WakaTime Stats:
 ![wakatime](https://wakatime.com/badge/user/018bc0cb-0ddb-44ed-8e0c-a3b2aa67e357.svg)
@@ -34,4 +44,5 @@ I'm currently developing [PetCare Pro](https://petcarepro.dk), a platform design
 [![](https://visitcount.itsvg.in/api?id=YonasValentin&icon=2&color=1)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
+Your support helps me maintain and improve my projects (including the expo-config-plugin-appodeal, ErrorClipper, and ClickUp Code Companion).  
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yonasvalentin)
