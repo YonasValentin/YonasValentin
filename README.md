@@ -17,7 +17,7 @@ I’ve also developed [expo-config-plugin-appodeal](https://www.npmjs.com/packag
 I'm currently developing [PetCare Pro](https://petcarepro.dk), a platform designed to streamline pet clinic management. The platform helps veterinary clinics manage appointments, pet records, invoicing, and real-time chat consultations with ease.
 
 ### SurgeryTrips
-[SurgeryTrips](https://surgerytrips.dk),A platform to find and compare medical procedures abroad. Easily browse accredited clinics worldwide, compare costs and patient reviews, and book your procedure—whether it’s a hair transplant, plastic surgery, or dental work.
+[SurgeryTrips](https://surgerytrips.dk), A platform to find and compare medical procedures abroad. Easily browse accredited clinics worldwide, compare costs and patient reviews, and book your procedure—whether it’s a hair transplant, plastic surgery, or dental work.
 
 ### TeoriTjek (Expo App)
 A free (ad-supported) iOS app for practicing Danish driving theory. Complete 25-question quizzes inspired by real traffic rules, get instant feedback, and prepare for the official exam.  
