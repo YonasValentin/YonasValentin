@@ -60,17 +60,17 @@ Currently focusing on backend development — .NET and NestJS architecture, data
 
 -----
 
+## Coding Activity
+
+![Yonas’s WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YonasValentin&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+-----
+
 ## Background
 
 Started coding in high school. Built Workr, a student job marketplace that scaled to 80,000 users over 9 years.
 
 Now running TeoriTjek as CEO & co-founder while working @ EDC Group. Also shipping PhraseFlow, UseWorkspace, and maintaining 7 VS Code extensions.
-
------
-
-![WakaTime](https://wakatime.com/badge/user/018bc0cb-0ddb-44ed-8e0c-a3b2aa67e357.svg)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YonasValentin&show_icons=true&theme=dark&hide_border=true)
 
 -----
 
