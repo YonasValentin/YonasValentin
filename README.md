@@ -1,145 +1,247 @@
 <!-- Profile README: Yonas Valentin Mougaard Kristensen -->
 
-<h1 align="center">Yonas Valentin Mougaard Kristensen</h1>
-<p align="center"><b>Senior Software Engineer · EDC Group · Copenhagen</b></p>
-<p align="center">
-  <a href="mailto:yonasmougaard@gmail.com">yonasmougaard@gmail.com</a> ·
-  <a href="https://linkedin.com/in/yonas-valentin">LinkedIn</a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white">
-  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a?logo=react&logoColor=61DAFB">
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white">
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white">
-  <img alt="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white">
-  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white">
-</p>
+# Yonas Valentin Mougaard Kristensen
+
+### Senior Software Engineer @ EDC Group | Copenhagen
+
+**Building production systems across mobile, web, and backend.**
+**Founder. Open source contributor. 80K+ users shipped.**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yonas-valentin)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonasmougaard@gmail.com)
+[![VS Code](https://img.shields.io/badge/VS_Code-Extensions-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/publishers/YonasValentinMougaardKristensen)
+[![Support](https://img.shields.io/badge/Buy_Me_a_Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/yonasvalentin)
+
+</div>
 
 ---
 
-## Snapshot
-I design, build, and operate production systems across **mobile (Expo/React Native)**, **web (Next.js)**, and **backend (.NET/NestJS/Postgres)**. Typed contracts, deterministic CI, and clean data models are non-negotiable.
+## GitHub Stats
 
-- 7 VS Code extensions with 1,000+ installs  
-- Founder/operator on multiple SaaS products  
-- Proven delivery on mobile + .NET stacks at enterprise scale  
-- Feature flags, observability, zero-downtime migrations by default
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YonasValentin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=YonasValentin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonasValentin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+## Tech Stack
+
+<details open>
+<summary><b>Languages & Frameworks</b></summary>
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Data & Backend</b></summary>
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PocketBase](https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=pocketbase&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>DevOps & Platforms</b></summary>
+<br/>
+
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>AI & Analytics</b></summary>
+<br/>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-FE695D?style=for-the-badge&logo=posthog&logoColor=white)
+
+</details>
 
 ---
 
 ## Building Now
 
 ### TeoriTjek — CEO & Co-founder
-Danish driving theory exam platform. iOS live, Android next.  
-Stack: React Native (Expo), TypeScript, .NET API, Postgres, Supabase, App Store CI/CD  
-Links: [iOS App](https://apps.apple.com/dk/app/teoritjek-best%C3%A5-teoripr%C3%B8ven/id6744063979) · [Compare Driving Schools](https://www.teoritjek.dk/sammenlign-koreskoler)
+> Danish driving theory exam platform
 
-### PhraseFlow — Translation Systems without Spreadsheet Chaos
-AI-assisted translation workflow with real source-of-truth and missing-locale guards.  
-Stack: Next.js 16, TypeScript, .NET on Railway, Postgres, pnpm packages for Expo/Next  
-Link: [phraseflow-web.vercel.app](https://phraseflow-web.vercel.app)
+![iOS](https://img.shields.io/badge/iOS-Live-brightgreen?style=flat-square)
+![Android](https://img.shields.io/badge/Android-Coming_Soon-yellow?style=flat-square)
 
-### UseWorkspace — Workspace & Asset Management
-Space/desk/asset lifecycle with AI assistance.  
-Stack: Next.js 16, .NET, OpenAI, Railway  
-Link: [useworkspace.dk](https://useworkspace.dk)
+**Stack:** `React Native (Expo)` `TypeScript` `.NET API` `PostgreSQL` `Supabase`
+
+[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/dk/app/teoritjek-best%C3%A5-teoripr%C3%B8ven/id6744063979)
+[![Website](https://img.shields.io/badge/Website-Compare_Driving_Schools-blue?style=flat-square)](https://www.teoritjek.dk/sammenlign-koreskoler)
 
 ---
 
-## Open Source Tooling
+### PhraseFlow — Translation Systems
+> AI-assisted translation workflow with real source-of-truth and missing-locale guards
 
-Built 7 VS Code extensions (selected):
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
-- **[ErrorClipper](https://marketplace.visualstudio.com/items?itemName=YonasValentinMougaardKristensen.errorclipper)** — Copy errors with code context; AI-ready snippets (~453 installs)  
-- **[Aether – Sublime Code Theme](https://marketplace.visualstudio.com/items?itemName=YonasValentinMougaardKristensen.aether-sublime-code)** — Focused, contrast-correct theme (~192)  
-- **[Git Branch Manager](https://marketplace.visualstudio.com/items?itemName=YonasValentinMougaardKristensen.git-branch-manager)** — One-click cleanup of merged branches (~152)  
-- **[Azure DevOps Code Companion](https://marketplace.visualstudio.com/items?itemName=YonasValentinMougaardKristensen.azure-devops-code-companion)** — Boards and repos in-editor (~104)  
-- **[IntelliSense Number Suggestions](https://marketplace.visualstudio.com/items?itemName=YonasValentinMougaardKristensen.intellisense-number-suggestions)** — Smart numeric hints (~91)  
-- **[ClickUp Code Companion](https://marketplace.visualstudio.com/items?itemName=YonasValentinMougaardKristensen.clickup-code-companion)** — Ship tasks from VS Code (~88)  
-- **[TODO Debt Manager](https://marketplace.visualstudio.com/items?itemName=YonasValentinMougaardKristensen.todo-debt-manager)** — Visualize and burn down tech debt (~32)
+**Stack:** `Next.js` `TypeScript` `.NET on Railway` `PostgreSQL` `pnpm packages`
 
-All extensions: <https://marketplace.visualstudio.com/publishers/YonasValentinMougaardKristensen>
+[![Website](https://img.shields.io/badge/Website-phraseflow--web.vercel.app-blue?style=flat-square)](https://phraseflow-web.vercel.app)
 
 ---
 
-## Operating Manual
+### UseWorkspace — Asset Management
+> Space/desk/asset lifecycle with AI assistance
 
-### Engineering Principles
-1. **Typed boundaries or no boundaries** — shared DTOs/Zod schemas, contract tests, generated clients.  
-2. **Monolith first, modular later** — bounded contexts enforced by folder and ownership, not hope.  
-3. **Observability from day one** — logs, metrics, traces, budget alarms, and user-visible SLOs.  
-4. **Migrations are products** — progressive rollouts, backfills, and kill-switches.  
-5. **DX compounds** — reproducible dev env, seed data, fast feedback, preview deploys.  
-6. **AI assists, humans decide** — codegen for glue, human review for architecture.
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
-### PR Checklist (excerpt)
-```md
+**Stack:** `Next.js` `.NET` `OpenAI` `Railway`
+
+[![Website](https://img.shields.io/badge/Website-useworkspace.dk-blue?style=flat-square)](https://useworkspace.dk)
+
+---
+
+## Open Source: VS Code Extensions
+
+<div align="center">
+
+**7 extensions · 1,000+ total installs**
+
+</div>
+
+| Extension | Description | Installs |
+|-----------|-------------|:--------:|
+| [**ErrorClipper**](https://marketplace.visualstudio.com/items?itemName=YonasValentinMougaardKristensen.errorclipper) | Copy errors with code context; AI-ready snippets | ![Installs](https://img.shields.io/visual-studio-marketplace/i/YonasValentinMougaardKristensen.errorclipper?style=flat-square&label=) |
+| [**Aether Theme**](https://marketplace.visualstudio.com/items?itemName=YonasValentinMougaardKristensen.aether-theme) | Focused, contrast-correct sublime theme | ![Installs](https://img.shields.io/visual-studio-marketplace/i/YonasValentinMougaardKristensen.aether-theme?style=flat-square&label=) |
+| [**Git Branch Manager Pro**](https://marketplace.visualstudio.com/items?itemName=YonasValentinMougaardKristensen.git-branch-manager-pro) | One-click cleanup of merged branches | ![Installs](https://img.shields.io/visual-studio-marketplace/i/YonasValentinMougaardKristensen.git-branch-manager-pro?style=flat-square&label=) |
+| [**Azure DevOps Companion**](https://marketplace.visualstudio.com/items?itemName=YonasValentinMougaardKristensen.azure-devops-code-companion) | Boards and repos in-editor | ![Installs](https://img.shields.io/visual-studio-marketplace/i/YonasValentinMougaardKristensen.azure-devops-code-companion?style=flat-square&label=) |
+| [**IntelliSense Hotkeys**](https://marketplace.visualstudio.com/items?itemName=YonasValentinMougaardKristensen.intellisense-hotkeys) | Smart keyboard shortcuts | ![Installs](https://img.shields.io/visual-studio-marketplace/i/YonasValentinMougaardKristensen.intellisense-hotkeys?style=flat-square&label=) |
+| [**ClickUp Companion**](https://marketplace.visualstudio.com/items?itemName=YonasValentinMougaardKristensen.clickup-code-companion) | Ship tasks from VS Code | ![Installs](https://img.shields.io/visual-studio-marketplace/i/YonasValentinMougaardKristensen.clickup-code-companion?style=flat-square&label=) |
+| [**TODO Debt Manager**](https://marketplace.visualstudio.com/items?itemName=YonasValentinMougaardKristensen.todo-debt-manager) | Visualize and burn down tech debt | ![Installs](https://img.shields.io/visual-studio-marketplace/i/YonasValentinMougaardKristensen.todo-debt-manager?style=flat-square&label=) |
+
+<div align="center">
+
+[![View All Extensions](https://img.shields.io/badge/View_All_Extensions-VS_Code_Marketplace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/publishers/YonasValentinMougaardKristensen)
+
+</div>
+
+---
+
+## Proof of Work
+
+<div align="center">
+
+| Metric | Achievement |
+|:------:|:-----------:|
+| **80,000+** | Users scaled on Workr over 9 years |
+| **7** | VS Code extensions published |
+| **1,000+** | Developer tool installs |
+| **1** | Live App Store application |
+
+</div>
+
+> *Frontend specialist who ships backends that hold up.*
+
+---
+
+## Engineering Philosophy
+
+<details>
+<summary><b>Core Principles</b></summary>
+<br/>
+
+| Principle | Practice |
+|-----------|----------|
+| **Typed boundaries** | Shared DTOs/Zod schemas, contract tests, generated clients |
+| **Monolith first** | Bounded contexts by folder and ownership, not hope |
+| **Observability from day one** | Logs, metrics, traces, budget alarms, SLOs |
+| **Migrations are products** | Progressive rollouts, backfills, kill-switches |
+| **DX compounds** | Reproducible dev env, seed data, fast feedback, preview deploys |
+| **AI assists, humans decide** | Codegen for glue, human review for architecture |
+
+</details>
+
+<details>
+<summary><b>PR Checklist</b></summary>
+<br/>
+
 - [ ] Contract tests updated (DTOs/Zod) and generated clients bumped
-- [ ] Zero-downtime: write → read → deprecate path applied to migrations
-- [ ] Telemetry added (metric + trace + log) and dashboard link posted
+- [ ] Zero-downtime: write → read → deprecate path for migrations
+- [ ] Telemetry added (metric + trace + log) with dashboard link
 - [ ] Security review: RLS/claims/roles; secrets via env or vault; no PII in logs
 - [ ] Rollout plan with flags and rollback command included
 
-Migration Playbook (excerpt)
+</details>
 
-1) Additive schema only. Deploy write paths behind a flag.
-2) Dual-write and validate. Backfill idempotently with chunked jobs.
-3) Flip reads to new source behind a flag. Monitor error budgets.
-4) Remove dual-write. Drop legacy only after cold period with snapshots.
+<details>
+<summary><b>Migration Playbook</b></summary>
+<br/>
 
+1. **Additive schema only** — Deploy write paths behind a flag
+2. **Dual-write and validate** — Backfill idempotently with chunked jobs
+3. **Flip reads** — Switch to new source behind a flag; monitor error budgets
+4. **Remove dual-write** — Drop legacy after cold period with snapshots
 
-⸻
+</details>
 
-Architecture Defaults
-	•	API: .NET/NestJS, CQRS where it pays off, MediatR/handlers for cross-cutting concerns
-	•	Data: Postgres, Prisma/EF Core, RLS on external-facing contexts, audit trails
-	•	Frontends: Next.js 16 and Expo, strict TypeScript, feature flags, e2e happy-path tests
-	•	AI: OpenAI for summarization/assistance; no black-box decisions in core flows
-	•	Ops: Railway/Vercel, GitHub Actions, canary + auto-rollback, environment-scoped secrets
-	•	Analytics: PostHog/Umami, event contracts, server-side ingestion preferred
+<details>
+<summary><b>Architecture Defaults</b></summary>
+<br/>
 
-⸻
+| Layer | Stack |
+|-------|-------|
+| **API** | .NET/NestJS, CQRS where valuable, MediatR for cross-cutting |
+| **Data** | PostgreSQL, Prisma/EF Core, RLS on external contexts, audit trails |
+| **Frontend** | Next.js & Expo, strict TypeScript, feature flags, e2e happy-path tests |
+| **AI** | OpenAI for summarization/assistance; no black-box core decisions |
+| **Ops** | Railway/Vercel, GitHub Actions, canary + auto-rollback |
+| **Analytics** | PostHog/Umami, event contracts, server-side ingestion |
 
-Proof of Work
-	•	Scaled Workr (student job marketplace) to ~80,000 users over 9 years
-	•	Shipped multiple SaaS products and a live App Store app as operator and engineer
-	•	7 VS Code extensions installed by 1,000+ developers
-	•	Delivery track record across mobile + .NET in a regulated, data-sensitive domain
+</details>
 
-⸻
+---
 
-Day Job
+## Day Job
 
-Senior Software Engineer @ EDC Group
+**Senior Software Engineer @ EDC Group**
+
 Shipping React Native apps and .NET backends for real estate workflows. Focus: reliability, clean data, measurable outcomes.
 
-⸻
+---
 
-Stack
+<div align="center">
 
-Mobile: React Native (Expo), TypeScript
-Web: Next.js 16, React, TypeScript
-Backend: .NET, NestJS, Node.js
-Data: PostgreSQL, Supabase, Prisma
-AI: OpenAI API
-Ops: Railway, Vercel, App Store Connect, GitHub Actions
+## Let's Connect
 
-Currently deepening .NET/NestJS architecture and database scaling. Frontend specialist who ships backends that hold up.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yonas-valentin)
+[![Email](https://img.shields.io/badge/Email-yonasmougaard@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonasmougaard@gmail.com)
+[![Support](https://img.shields.io/badge/Support_My_Work-Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/yonasvalentin)
 
-⸻
+<br/>
 
-Build Signals
+*Open to interesting projects and collaborations.*
 
-
-⸻
-
-Contact
-
-Email: yonasmougaard@gmail.com
-LinkedIn: /in/yonas-valentin
-Support: https://buymeacoffee.com/yonasvalentin
+</div>
