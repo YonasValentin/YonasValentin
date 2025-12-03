@@ -93,23 +93,36 @@
 > Danish driving theory exam platform
 
 ![iOS](https://img.shields.io/badge/iOS-Live-brightgreen?style=flat-square)
-![Android](https://img.shields.io/badge/Android-Coming_Soon-yellow?style=flat-square)
+![Android](https://img.shields.io/badge/Android-Live-brightgreen?style=flat-square)
 
 **Stack:** `React Native (Expo)` `TypeScript` `.NET API` `PostgreSQL` `Supabase`
 
 [![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/dk/app/teoritjek-best%C3%A5-teoripr%C3%B8ven/id6744063979)
-[![Website](https://img.shields.io/badge/Website-Compare_Driving_Schools-blue?style=flat-square)](https://www.teoritjek.dk/sammenlign-koreskoler)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=dk.teoritjek.app)
+[![Website](https://img.shields.io/badge/Website-teoritjek.dk-blue?style=flat-square)](https://www.teoritjek.dk/sammenlign-koreskoler)
 
 ---
 
-### PhraseFlow — Translation Systems
+### StitchFlow — Interactive Knitting Patterns
+> Digital platform turning PDF patterns into interactive experiences with row counters, video help, and progress tracking
+
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+![Users](https://img.shields.io/badge/Users-2,500+-blue?style=flat-square)
+
+**Stack:** `Next.js` `TypeScript` `PocketBase` `Vercel`
+
+[![Website](https://img.shields.io/badge/Website-stitchflow.dk-blue?style=flat-square)](https://stitchflow-gray.vercel.app)
+
+---
+
+### LangSync — Translation Systems
 > AI-assisted translation workflow with real source-of-truth and missing-locale guards
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
 **Stack:** `Next.js` `TypeScript` `.NET on Railway` `PostgreSQL` `pnpm packages`
 
-[![Website](https://img.shields.io/badge/Website-phraseflow--web.vercel.app-blue?style=flat-square)](https://phraseflow-web.vercel.app)
+[![Website](https://img.shields.io/badge/Website-langsync.xyz-blue?style=flat-square)](https://langsync.xyz)
 
 ---
 
