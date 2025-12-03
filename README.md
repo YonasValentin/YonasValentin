@@ -122,7 +122,7 @@
 
 **Stack:** `Next.js` `TypeScript` `.NET on Railway` `PostgreSQL` `pnpm packages`
 
-[![Website](https://img.shields.io/badge/Website-langsync.xyz-blue?style=flat-square)](https://langsync.xyz)
+[![Website](https://img.shields.io/badge/Website-langsync.xyz-blue?style=flat-square)](https://phraseflow-web.vercel.app)
 
 ---
 
