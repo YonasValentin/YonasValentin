@@ -24,14 +24,22 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YonasValentin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YonasValentin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YonasValentin&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YonasValentin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</picture>
 <img height="180em" src="https://streak-stats.demolab.com/?user=YonasValentin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonasValentin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YonasValentin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YonasValentin&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YonasValentin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</picture>
 
 </div>
 
@@ -98,7 +106,7 @@
 **Stack:** `React Native (Expo)` `TypeScript` `.NET API` `PostgreSQL` `Supabase`
 
 [![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/dk/app/teoritjek-best%C3%A5-teoripr%C3%B8ven/id6744063979)
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=dk.teoritjek.app)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.yonasvalentin2900.teoritjek)
 [![Website](https://img.shields.io/badge/Website-teoritjek.dk-blue?style=flat-square)](https://www.teoritjek.dk/sammenlign-koreskoler)
 
 ---
