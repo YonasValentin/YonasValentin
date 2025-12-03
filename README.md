@@ -24,22 +24,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YonasValentin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YonasValentin&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YonasValentin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</picture>
-<img height="180em" src="https://streak-stats.demolab.com/?user=YonasValentin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YonasValentin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YonasValentin&layout=compact&theme=default&hide_border=true&langs_count=8" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YonasValentin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</picture>
+<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=YonasValentin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
