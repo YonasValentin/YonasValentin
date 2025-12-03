@@ -24,7 +24,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=YonasValentin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=YonasValentin&theme=tokyonight&hide_border=true)](https://github.com/YonasValentin)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YonasValentin&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YonasValentin&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
