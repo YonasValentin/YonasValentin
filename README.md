@@ -7,7 +7,7 @@
 ### Senior Software Engineer @ EDC Group | Copenhagen
 
 **Building production systems across mobile, web, and backend.**
-**Founder. Open source contributor. 80K+ users shipped.**
+**Founder. Open source contributor. 180K+ users shipped.**
 
 <br/>
 
@@ -166,7 +166,7 @@
 
 | Metric | Achievement |
 |:------:|:-----------:|
-| **80,000+** | Users scaled on Workr over 9 years |
+| **180,000+** | Users scaled on Workr over 9 years |
 | **7** | VS Code extensions published |
 | **1,000+** | Developer tool installs |
 | **1** | Live App Store application |
